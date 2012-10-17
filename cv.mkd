@@ -1,19 +1,87 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+[Área de Jornalismo, Área de Entretenimento, Área de Webmedia, Área de Plataformas Sociais]
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Adriana Ferreira Silva
+==
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+###**Dados Pessoais:**###
+**Endereço:** Rua Ministro Armando de Alencar, 35 apt. 901 **CEP:** 22471-080 <br />
+**Cidade:** Rio de Janeiro <br />
+**Telefone:** 25304027 ou 81942376 <br />
+**Email:** drica.silva@gmail.com
+
+**Pretensão Salarial:** R$5.500,00
+
+###**Formação:**###
+
+**MBA em Gerenciamento de Projetos** <br />
+**Instituição:** Fundação Getúlio Vargas <br />
+**Cidade:** Rio de Janeiro/RJ <br />
+**Status:** Concluído <br />
+**Data de Conclusão:** Novembro/2009
+
+**Tecnologia em Processamento de Dados** <br />
+**Habilitação:** Tecnólogo em Processamento de Dados <br />
+**Instituição:** Faculdades Integradas Simonsen <br />
+**Cidade:** Rio de Janeiro/RJ <br />
+**Status:** Concluído <br />
+**Data de Conclusão:** Julho/2003
+
+**Técnico em Processamento de Dados** <br />
+**Habilitação:** Técnico em Processamento de Dados <br />
+**Instituição:** Colégio Santa Mônica <br />
+**Cidade:** Rio de Janeiro/RJ <br />
+**Status:** Concluído <br />
+**Data de Conclusão**:** 1998
+
+###**Cursos Realizados:**###
+
+**Curso de Inglês** <br />
+**Instituição:** CCAA <br />
+**Status:** Concluído <br />
+**Conclusão:** Dezembro/2006
+
+**Curso de Dreamweaver MX 2004** <br />
+**Instituição:** Instituto Infnet <br />
+**Status:** Concluído <br />
+**Conclusão:** Outubro/2004
+
+**Curso de HTML** <br />
+**Instituição:** Instituto Infnet <br />
+**Status:** Concluído <br />
+**Conclusão:** Setembro/2004 
+
+###**Experiências Profissionais:**###
+
+**Concrete Solutions** <br />
+**Cargo:** Programador Pleno <br />
+**Cidade:** Rio de Janeiro <br />
+**Início:** Abril/2011 <br />
+**Término:** Atual <br />
+**Tarefas:** Trabalhando alocado no cliente com: Programação em Ruby OO, MySQL, Jquery, Framework Rails, Python e Django. 
+
+**K2 Consulting** <br />
+**Cargo:** Programador Ruby Pleno <br />
+**Cidade:** Rio de Janeiro <br />
+**Início: Setembro/2010 <br />
+**Término:** Abril/2011 <br />
+**Tarefas:** Trabalhando alocado na TIM Brasil com: Programação em Ruby OO, modelagem de banco de dados, Sqlite, Oracle, Jquery, Framework Rails.
+
+**Kindle Comunicação Digital Ltda** <br />
+**Cargo:** Programador PHP Pleno <br />
+**Cidade:** Rio de Janeiro <br />
+**Início:** Junho/2010 <br />
+**Término:** Setembro/2010 <br />
+**Tarefas:** Programação em PHP OO, modelagem de banco de dados, MySQL, Jquery, Framework Code Ignither e CakePHP.
+
+###**Projetos Desenvolvidos:**###
+
+[pubtools.indieclick.com] (http://pubtools.indieclick.com) - Site em PHP OO, Javascript e banco de dados MySQL, utilizando Stored Procedures. <br />
+www.dakotafilms.com - Site em PHP OO, Javascript e banco de dados MySQL, utilizando Stored Procedures. <br />
+www.jntech.com.br - Site em PHP com MYSQL, com administrador de conteúdo e Página Principal com conteúdo dinâmico em Flash com Actionscript. <br />
+www.unicarioca.br - Sistema de helpdesk em PHP com SQL Server.
